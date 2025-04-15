@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: 'model_52'
+  name: 'modellab_52'
 
 steps:
 - task: Maven@3
